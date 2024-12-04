@@ -1,4 +1,4 @@
-# CSCI596 Presentation
+# Visualizing LLMs towards Explainable AI
 
 ## Introduction to Word Embeddings and NLP
 
