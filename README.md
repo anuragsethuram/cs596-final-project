@@ -1,4 +1,4 @@
-# Visualizing LLMs towards Explainable AI
+# Visualizing Embeddings towards Explainable AI
 
 ## Introduction to Word Embeddings and NLP
 
