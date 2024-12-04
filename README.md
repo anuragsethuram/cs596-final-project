@@ -86,3 +86,6 @@
 4. **Machine Translation**:  
    *Example*: Translating "house" in English to "maison" in French by finding the nearest word in the target language's embedding space.
 
+## Results
+https://colab.research.google.com/drive/19PVdehyzYuo8cWeABjKdE7a4nQwpiRvt?usp=sharing
+
